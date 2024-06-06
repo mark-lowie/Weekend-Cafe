@@ -1,0 +1,2 @@
+ <p>Participate in our latest giveaway for a chance to win free coffee for an entire month! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<p class="w3-opacity">Published on April 5, 2024</p>
